@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vedantnn71/Google-clone/static/css/main.2e4e92ff.chunk.css",
+    "main.js": "/vedantnn71/Google-clone/static/js/main.c9bf53a6.chunk.js",
+    "main.js.map": "/vedantnn71/Google-clone/static/js/main.c9bf53a6.chunk.js.map",
+    "runtime-main.js": "/vedantnn71/Google-clone/static/js/runtime-main.5f2a6a93.js",
+    "runtime-main.js.map": "/vedantnn71/Google-clone/static/js/runtime-main.5f2a6a93.js.map",
+    "static/js/2.84683c5e.chunk.js": "/vedantnn71/Google-clone/static/js/2.84683c5e.chunk.js",
+    "static/js/2.84683c5e.chunk.js.map": "/vedantnn71/Google-clone/static/js/2.84683c5e.chunk.js.map",
+    "static/js/3.e444a72d.chunk.js": "/vedantnn71/Google-clone/static/js/3.e444a72d.chunk.js",
+    "static/js/3.e444a72d.chunk.js.map": "/vedantnn71/Google-clone/static/js/3.e444a72d.chunk.js.map",
+    "index.html": "/vedantnn71/Google-clone/index.html",
+    "static/css/main.2e4e92ff.chunk.css.map": "/vedantnn71/Google-clone/static/css/main.2e4e92ff.chunk.css.map",
+    "static/js/2.84683c5e.chunk.js.LICENSE.txt": "/vedantnn71/Google-clone/static/js/2.84683c5e.chunk.js.LICENSE.txt",
+    "static/media/apps.779ff747.svg": "/vedantnn71/Google-clone/static/media/apps.779ff747.svg",
+    "static/media/mic.6e4ac308.svg": "/vedantnn71/Google-clone/static/media/mic.6e4ac308.svg",
+    "static/media/search.f174ec15.svg": "/vedantnn71/Google-clone/static/media/search.f174ec15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f2a6a93.js",
+    "static/js/2.84683c5e.chunk.js",
+    "static/css/main.2e4e92ff.chunk.css",
+    "static/js/main.c9bf53a6.chunk.js"
+  ]
+}
