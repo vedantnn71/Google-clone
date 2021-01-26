@@ -1,0 +1,31 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin: 1rem;
+}
+
+nav a {
+  font-size: 0.9rem;
+  text-decoration: none;
+  color: #0c0c0c !important;
+  font-family: sans-serif;
+  padding: 0.7rem;
+}
+
+.first__links,
+.second__links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.btn {
+  margin: 0 0.7rem;
+  padding: 0.7rem 1.3rem;
+  outline: none;
+  border: none;
+  background: #1680fa;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
